@@ -1,1 +1,14 @@
-{"version":"0.2.0","url":"https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.0/Dove.Client_0.2.0_x64-setup.exe","windows_x64":"https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.0/Dove.Client_0.2.0_x64-setup.exe","linux_x64":"https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.0/Dove.Client_0.2.0_amd64.AppImage","linux_x64_appimage":"https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.0/Dove.Client_0.2.0_amd64.AppImage","linux_x64_deb":"https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.0/Dove.Client_0.2.0_amd64.deb"}
+{
+  "version": "0.2.1",
+  "windows_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_x64-setup.exe",
+  "windows_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_arm64-setup.exe",
+  "linux_x64_appimage": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_amd64.AppImage",
+  "linux_x64_deb": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_amd64.deb",
+  "linux_arm64_appimage": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_aarch64.AppImage",
+  "linux_arm64_deb": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_arm64.deb",
+  "macos_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_x64.dmg",
+  "macos_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_aarch64.dmg",
+  "url": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_x64-setup.exe",
+  "linux_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_amd64.AppImage",
+  "linux_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.1/Dove.Client_0.2.1_aarch64.AppImage"
+}
