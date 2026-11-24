@@ -1,5 +1,14 @@
 {
   "version": "0.2.9",
   "windows_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_x64-setup.exe",
-  "url": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_x64-setup.exe"
+  "windows_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_arm64-setup.exe",
+  "linux_x64_appimage": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_amd64.AppImage",
+  "linux_x64_deb": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_amd64.deb",
+  "linux_arm64_appimage": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_aarch64.AppImage",
+  "linux_arm64_deb": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_arm64.deb",
+  "macos_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_x64.dmg",
+  "macos_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_aarch64.dmg",
+  "url": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_x64-setup.exe",
+  "linux_x64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_amd64.AppImage",
+  "linux_arm64": "https://github.com/ThinkLinkYT/Dove-Client-Releases/releases/download/launcher-v0.2.9/Dove.Client_0.2.9_aarch64.AppImage"
 }
